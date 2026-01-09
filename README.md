@@ -43,23 +43,24 @@ Motor is switched OFF
 Light is switched ON
 Light is switched OFF
 
-3) Testing
+### Testing
 
 * Question 1 was tested by running the Python file locally.
 
 * No runtime or functional errors were observed.
 
 
-4) Assumptions and Limitations
+### Assumptions and Limitations
 
 * The solution focuses on clarity and correctness as requested.
 
 
-5) Candidate Information
+### Candidate Information
 
 *** Candidate ID: SAV126
 
 *** Solution Type: Local execution (No cloud / hosting used)
+
 
 
 
